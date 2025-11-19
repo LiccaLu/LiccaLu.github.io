@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Homework 5
+layout: page
+title: "Homework 5"
+permalink: /hw5/
 ---
-
 # Homework 5
-
+hw5/index.md
 Below are my files for Homework 5.
 
 ## JSON Files
