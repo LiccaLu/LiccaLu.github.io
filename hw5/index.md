@@ -12,6 +12,7 @@ Below are my files for Homework 5.
 - [plot2.json](plot2.json)
 
 ## Notebook
-- [Workbook.ipynb](Workbook.ipynb)
+- [Workbook.ipynb](https://github.com/liccalu/LiccaLu.github.io/blob/main/hw5/Workbook.ipynb)
+
 
 [Homework 5](hw5/)
